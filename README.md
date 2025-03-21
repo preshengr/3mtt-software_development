@@ -34,7 +34,7 @@ This project was designed to fulfill the 3MTT program's HTML basics module requi
     * Use the following command in your terminal or Git Bash to clone the repository to your local machine:
 
         ```
-        git clone [repository URL]
+        git clone [https://github.com/preshengr/personalprofile]
         ```
 
 2.  **Open `index.html`:**
